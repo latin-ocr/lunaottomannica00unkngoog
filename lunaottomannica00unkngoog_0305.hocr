@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lunaottomannica00unkngoog_0305.png"; bbox 0 0 1788 3003; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1748 2483 1758 2519">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1748 2483 1758 2519">
+     <span class='ocr_line' id='line_1_1' title="bbox 1748 2483 1758 2519; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1748 2483 1758 2519; x_wconf 76' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 426 2649 1671 2768">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 426 2649 1777 2772">
+     <span class='ocr_line' id='line_1_2' title="bbox 426 2649 1671 2768; baseline 0.003 -26"><span class='ocrx_word' id='word_1_2' title='bbox 426 2649 784 2767; x_wconf 54' lang='lat' dir='ltr'>§Eut-imos,</span> <span class='ocrx_word' id='word_1_3' title='bbox 821 2678 890 2744; x_wconf 68' lang='grc' dir='ltr'>ὃ(</span> <span class='ocrx_word' id='word_1_4' title='bbox 929 2695 1160 2768; x_wconf 76' lang='lat' dir='ltr'>praetet</span> <span class='ocrx_word' id='word_1_5' title='bbox 1203 2650 1442 2743; x_wconf 60' lang='lat' dir='ltr'>samio}</span> <span class='ocrx_word' id='word_1_6' title='bbox 1473 2649 1671 2741; x_wconf 46' lang='lat' dir='ltr'>hdussi-v</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1533 2765 1652 2877">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1533 2765 1652 2877">
+     <span class='ocr_line' id='line_1_3' title="bbox 1533 2765 1652 2877; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 1533 2765 1652 2877; x_wconf 54' lang='grc' dir='ltr'>ὼ·</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
